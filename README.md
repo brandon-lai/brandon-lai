@@ -1,1 +1,9 @@
-<img src="https://github.com/brandon-lai/brandon-lai/blob/main/output.gif" alt="Here is a little bit about me!">
+### Hi there! 👋
+
+#### whoami
+👨🏻‍💻 Software Engineer @ LinkedIn
+<br>🎾 Tennis player
+<br>🚀 Builder
+
+#### Lets connect!
+[LinkedIn](https://www.linkedin.com/in/brandon-lai/)
